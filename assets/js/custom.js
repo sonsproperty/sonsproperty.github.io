@@ -165,7 +165,7 @@ $(document).ready(function($) {
                 var $this = $(this);
                 setTimeout(function(){
                     $this.addClass("show");
-                }, i * 150);
+                }, i * 1);
             });
         });
     }
